@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/MutlakKare/bin/Debug/net6.0/MutlakKare
+/Users/ugurcanyagmur/Projects/MutlakKare/bin/Debug/net6.0/MutlakKare.deps.json
+/Users/ugurcanyagmur/Projects/MutlakKare/bin/Debug/net6.0/MutlakKare.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/MutlakKare/bin/Debug/net6.0/MutlakKare.dll
+/Users/ugurcanyagmur/Projects/MutlakKare/bin/Debug/net6.0/MutlakKare.pdb
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.dll
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/refint/MutlakKare.dll
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.pdb
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/MutlakKare.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/MutlakKare/obj/Debug/net6.0/ref/MutlakKare.dll
